@@ -31,6 +31,9 @@
 - Création d'une nouvelle règle entrante personnalisé
 ---
 
+
+iptables
+
 # Pare-feu réseau
 
 ## 🛠️ Étapes de l’atelier
