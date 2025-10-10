@@ -38,7 +38,7 @@
 - Une machine virtuelle **PFSense** avec 3 cartes réseaux ( 1 NAT et 2 LAN Segments)  
 ⚠️ Le bridge peut poser des soucis de niveau 2 avec la table ARP ⚠️
 
----
+## 🛠️ Étapes de l’atelier
 
 - Installer le PFSense et configurer les cartes de sorte que le WAN soit mis sur la carte réseau du NAT. Le LAN soit mis sur une carte réseau LAN Segment et la DMZ sur l'autre LAN Segment.
 - Votre machine machine virtuelle qui se trouve dans le réseau Lan possède bien internet. Par default, PFSense créé une règle qui redirige tout le trafic LAN vers internet.
