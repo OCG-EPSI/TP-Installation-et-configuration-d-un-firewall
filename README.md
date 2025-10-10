@@ -32,12 +32,11 @@
 ---
 
 ## Pare-feu réseau
-
-### 4️⃣ Installation et configuration d'un Firewall réseau avec PFSense (Réalisation possible avec OPNSense, IPFire, PaloAlto, Stormshield ...)
 ## 📌 Pré-requis
 - Une machine virtuelle **PFSense** avec 3 cartes réseaux ( 1 NAT et 2 LAN Segments)  
 ⚠️ Le bridge peut poser des soucis de niveau 2 avec la table ARP ⚠️
 
+### 4️⃣ Installation et configuration d'un Firewall réseau avec PFSense (Réalisation possible avec OPNSense, IPFire, PaloAlto, Stormshield ...)
 ## 🛠️ Étapes de l’atelier
 
 - Installer le PFSense et configurer les cartes de sorte que le WAN soit mis sur la carte réseau du NAT. Le LAN soit mis sur une carte réseau LAN Segment et la DMZ sur l'autre LAN Segment.
