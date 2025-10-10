@@ -31,6 +31,8 @@
 - Création d'une nouvelle règle entrante personnalisé
 ---
 
+## Pare-feu réseau
+
 ### 4️⃣ Installation et configuration d'un Firewall réseau avec PFSense (Réalisation possible avec OPNSense, IPFire, PaloAlto, Stormshield ...)
 ## 📌 Pré-requis
 - Une machine virtuelle **PFSense** avec 3 cartes réseaux ( 1 NAT et 2 LAN Segments)  
