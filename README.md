@@ -1,4 +1,4 @@
-# 🖥️ SN2 - Installation et configuration d'un firewall
+# 🖥️ Installation et configuration d'un firewall
 ## 🛠️ Étapes de l’atelier
 
 ---
@@ -25,14 +25,17 @@
 - Configurer firewalld pour laisser passer le traffic entrant HTTP
 ---
 
+### 5️⃣ Configuration d'Iptables
+- Désinstallation d'UFW / Firewalld
+- Configuration d'IPtables pour bloquer tout le traffic
+- Configuration d'IPtables pour laisser passer le traffic WEB
+---
+
 ### 3️⃣ Installation et configuration du pare-feu Windows Defender
 - Installer IIS
 - Désactivation de la règle par default dans trafic entrant (La page IIS ne doit plus être accessible) 
 - Création d'une nouvelle règle entrante personnalisé
 ---
-
-
-iptables
 
 # Pare-feu réseau
 
