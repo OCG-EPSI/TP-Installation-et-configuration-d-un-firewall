@@ -43,7 +43,7 @@
 
 ---
 ## 📌 Pré-requis
-- Une machine virtuelle **PFSense** avec 3 cartes réseaux ( 1 NAT et 2 LAN Segments)  
+- Une machine virtuelle **PFSense** et **OPNSENSE** avec 3 cartes réseaux ( 1 NAT et 2 LAN Segments)  
 ⚠️ Le bridge peut poser des soucis de niveau 2 avec la table ARP ⚠️
 --- 
 
